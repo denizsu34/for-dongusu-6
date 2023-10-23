@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\bin\Debug\for döngüsü 5_1681.exe.config
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\bin\Debug\for döngüsü 5_1681.exe
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\bin\Debug\for döngüsü 5_1681.pdb
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for_döngüsü_5_1681.Form1.resources
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for_döngüsü_5_1681.Properties.Resources.resources
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.exe
+C:\Users\User\source\repos\for döngüsü 5_1681\for döngüsü 5_1681\obj\Debug\for döngüsü 5_1681.pdb
